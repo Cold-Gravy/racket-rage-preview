@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+<!-- Favicon: the approved app icon, built from ColdGravy/icons/RacketRageTennis/icon-background.svg and icon-foreground.svg. Do not edit here. -->
+<clipPath id="cg-icon-r"><rect width="1024" height="1024" rx="225"/></clipPath>
+<g clip-path="url(#cg-icon-r)">
+
+    <defs>
+      <radialGradient id="vig" cx="0.5" cy="0.45" r="0.75">
+        <stop offset="0.55" stop-color="rgba(16,38,26,0)"/>
+        <stop offset="1" stop-color="rgba(16,38,26,0.45)"/>
+      </radialGradient>
+    </defs>
+    <rect width="1024" height="1024" fill="#2f6b3a"/>
+    <rect x="0" y="64" width="1024" height="64" fill="#357540"/><rect x="0" y="192" width="1024" height="64" fill="#357540"/><rect x="0" y="320" width="1024" height="64" fill="#357540"/><rect x="0" y="448" width="1024" height="64" fill="#357540"/><rect x="0" y="576" width="1024" height="64" fill="#357540"/><rect x="0" y="704" width="1024" height="64" fill="#357540"/><rect x="0" y="832" width="1024" height="64" fill="#357540"/><rect x="0" y="960" width="1024" height="64" fill="#357540"/>
+    <rect width="1024" height="1024" fill="url(#vig)"/>
+
+    <path d="M120 1024 Q130 790 310 744 L714 744 Q894 790 904 1024 Z" fill="#f4f1e6"/>
+    <path d="M120 1024 Q130 790 310 744 L340 744 Q210 820 220 1024 Z" fill="#dcd6c2"/>
+    <path d="M904 1024 Q894 790 714 744 L684 744 Q814 820 804 1024 Z" fill="#dcd6c2"/>
+    <!-- Neck -->
+    <rect x="446" y="600" width="132" height="170" rx="20" fill="#d65a45"/>
+    <!-- Polo collar in the sponsor navy -->
+    <path d="M418 736 L512 830 L472 852 L388 754 Z" fill="#1f3a6b"/>
+    <path d="M606 736 L512 830 L552 852 L636 754 Z" fill="#1f3a6b"/><g opacity="0.95"><circle cx="294" cy="408" r="16" fill="#f0f0f0"/><circle cx="280" cy="364" r="25" fill="#f0f0f0"/><circle cx="290" cy="306" r="34" fill="#f0f0f0"/><circle cx="262" cy="322" r="28" fill="#f0f0f0"/><circle cx="276" cy="270" r="28" fill="#f0f0f0"/><circle cx="730" cy="408" r="16" fill="#f0f0f0"/><circle cx="744" cy="364" r="25" fill="#f0f0f0"/><circle cx="734" cy="306" r="34" fill="#f0f0f0"/><circle cx="762" cy="322" r="28" fill="#f0f0f0"/><circle cx="748" cy="270" r="28" fill="#f0f0f0"/></g>
+    <!-- Ears -->
+    <ellipse cx="308" cy="464" rx="32" ry="48" fill="#d65a45"/>
+    <ellipse cx="716" cy="464" rx="32" ry="48" fill="#d65a45"/>
+    <!-- Head, red with fury, one darker tone on the jaw -->
+    <ellipse cx="512" cy="430" rx="206" ry="212" fill="#d65a45"/>
+    <ellipse cx="512" cy="418" rx="194" ry="198" fill="#f2775e"/>
+    <!-- Hair: a dark brown cap, as the close up puppet draws it -->
+    <path d="M302 360 Q306 188 512 202 Q718 188 722 360 Z" fill="#3a2716"/>
+    <!-- Headband in the default kit red -->
+    <path d="M300 296 Q512 276 724 296 L721 348 Q512 328 303 348 Z" fill="#ff3b30"/>
+    <path d="M303 348 Q512 328 721 348 L720 359 Q512 339 304 359 Z" fill="#c8102e"/>
+    <circle cx="426" cy="422" r="45" fill="#ffffff"/><circle cx="438" cy="432" r="20" fill="#1b1b1b"/><path d="M488 360 L364 360 L364 376 L488 424 Z" fill="#f2775e"/><circle cx="598" cy="422" r="45" fill="#ffffff"/><circle cx="586" cy="432" r="20" fill="#1b1b1b"/><path d="M536 360 L660 360 L660 376 L536 424 Z" fill="#f2775e"/>
+    <path d="M342 352 L486 396" stroke="#1b1b1b" stroke-width="36" stroke-linecap="round"/>
+    <path d="M682 352 L538 396" stroke="#1b1b1b" stroke-width="36" stroke-linecap="round"/><ellipse cx="512" cy="466" rx="27" ry="20" fill="#d65a45"/>
+    <clipPath id="m"><ellipse cx="512" cy="554" rx="100" ry="74"/></clipPath>
+    <ellipse cx="512" cy="554" rx="100" ry="74" fill="#5a0f0f"/>
+    <g clip-path="url(#m)">
+      <ellipse cx="512" cy="628" rx="70" ry="40.7" fill="#c23a2e"/>
+      <rect x="412" y="480" width="200" height="30" fill="#ffffff"/>
+    </g>
+    <!-- Forearms rising from the bottom edge -->
+    <path d="M287.5498922930825 1080 L357.5498922930825 784.669649163829" stroke="#cf9c78" stroke-width="92" stroke-linecap="round"/>
+    <path d="M749.058279764625 1080 L679.058279764625 794.5202327690395" stroke="#cf9c78" stroke-width="92" stroke-linecap="round"/>
+    <!-- Handle half: black grip in the left fist, yellow shaft up to the break -->
+    <path d="M314.99731159831947 817.9153688314145 L417.43870956719337 737.8793770390789" stroke="#1c1c1c" stroke-width="40" stroke-linecap="round"/>
+    <path d="M417.43870956719337 737.8793770390789 L500.9678494495059 672.6192606545592" stroke="#d9f24a" stroke-width="30" stroke-linecap="round"/>
+    <!-- Head half: open throat and frame, dropping to the right fist -->
+    <g transform="rotate(38 512 664)">
+      <path d="M526 664 L582 628 M526 664 L582 700" stroke="#d9f24a" stroke-width="24" stroke-linecap="round"/>
+      <ellipse cx="662" cy="664" rx="90" ry="66" fill="rgba(240,240,220,0.3)" stroke="#d9f24a" stroke-width="24"/>
+      <g stroke="rgba(255,255,255,0.65)" stroke-width="5">
+        <path d="M572 628 H752"/><path d="M572 652 H752"/><path d="M572 676 H752"/><path d="M572 700 H752"/>
+        <path d="M622 602 V726"/><path d="M652 602 V726"/><path d="M682 602 V726"/><path d="M712 602 V726"/>
+      </g>
+    </g>
+    <!-- Splinters at the break -->
+    <path d="M478 638 L508 658 L482 668 Z" fill="#f4f1e6"/>
+    <path d="M516 622 L528 660 L506 652 Z" fill="#f4f1e6"/>
+    
+    <circle cx="357.5498922930825" cy="784.669649163829" r="54" fill="#e7b892"/>
+    <path d="M329.5498922930825 746.669649163829 V790.669649163829 M357.5498922930825 738.669649163829 V790.669649163829 M385.5498922930825 746.669649163829 V790.669649163829" stroke="#cf9c78" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="679.058279764625" cy="794.5202327690395" r="54" fill="#e7b892"/>
+    <path d="M651.058279764625 756.5202327690395 V800.5202327690395 M679.058279764625 748.5202327690395 V800.5202327690395 M707.058279764625 756.5202327690395 V800.5202327690395" stroke="#cf9c78" stroke-width="6" stroke-linecap="round"/>
+</g>
+</svg>
